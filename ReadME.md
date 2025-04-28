@@ -1,1 +1,1 @@
-# Re(sorce)Repo for ChitterSync
+# Re(source)Repo for ChitterSync
